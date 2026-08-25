@@ -1,0 +1,5 @@
+2026-08-22 23:00:16 | INFO     | __main__ | Anabiyev Music Bot ishga tushmoqda...
+2026-08-22 23:00:16 | INFO     | database.db | Database tayyor: C:\Users\user\Desktop\anabiev_music_bot\anabiyev_music_bot\database\music.db
+2026-08-22 23:27:33 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2706)
+2026-08-22 23:27:33 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8603176576)
+2026-08-22 23:27:33 | INFO     | __main__ | Bot to'xtatildi.

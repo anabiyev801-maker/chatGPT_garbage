@@ -1,0 +1,6 @@
+aiogram==3.15.0
+python-dotenv==1.0.1
+yt-dlp>=2024.12.13
+shazamio==0.8.1
+pydub==0.25.1
+aiosqlite==0.20.0
